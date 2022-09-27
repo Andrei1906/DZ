@@ -1,0 +1,5 @@
+seconds = int(input('enter number of seconds->>'))
+print('days = ', seconds/86400)
+print('hours = ', seconds/3600)
+print('min = ', seconds/60)
+print('seconds = ', seconds)
